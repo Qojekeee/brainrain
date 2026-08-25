@@ -1,0 +1,6 @@
+{
+  "name": "Brain Rain",
+  "description": "An intellectual question game and cerebral practice platform with dynamic Rain Rush, category challenges, custom topic storms, and AI brain training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
